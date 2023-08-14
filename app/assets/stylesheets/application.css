@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+ .p1, .p2{
+  background-color:rgb(224, 177, 221);
+  background-size: auto;
+ }
+ .p3{
+  color:rgb(71, 128, 138)
+ }
